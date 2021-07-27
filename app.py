@@ -65,12 +65,14 @@ def main():
 
         # store them in our list of standings 
         standings.append(country)
+    
+    save_csv(standings)
 
 # serialize standings, save them as csv
 def save_csv(standings):
     # the name of the new file will be <year>-<month>-<day>-standings.csv
     d = datetime.datetime.now()
-    filename = f"{d.year}-{d.month}-{d.day}-standings.csv"
+    filename = f"data/{d.year}-{d.month}-{d.day}-standings.csv"
 
     # writing all the standings to a csv
     with open(filename, mode='w') as new_csv:

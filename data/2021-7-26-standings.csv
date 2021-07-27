@@ -1,0 +1,53 @@
+country,country_code,gold,silver,bronze
+Japan,JPN,8,2,3
+United States of America,USA,7,3,5
+People's Republic of China,CHN,6,5,7
+ROC,ROC,4,5,3
+Great Britain,GBR,3,4,1
+Republic of Korea,KOR,3,,4
+Australia,AUS,2,1,3
+Kosovo,KOS,2,,
+Italy,ITA,1,4,4
+France,FRA,1,2,2
+Canada,CAN,1,2,1
+Hungary,HUN,1,1,
+Tunisia,TUN,1,1,
+Croatia,CRO,1,,1
+Slovenia,SLO,1,,1
+Austria,AUT,1,,
+Bermuda,BER,1,,
+Ecuador,ECU,1,,
+"Hong Kong, China",HKG,1,,
+Islamic Republic of Iran,IRI,1,,
+Norway,NOR,1,,
+Philippines,PHI,1,,
+Thailand,THA,1,,
+Uzbekistan,UZB,1,,
+Netherlands,NED,,3,
+Chinese Taipei,TPE,,2,2
+Brazil,BRA,,2,1
+Georgia,GEO,,2,
+Czech Republic,CZE,,1,1
+Spain,ESP,,1,1
+Indonesia,INA,,1,1
+Serbia,SRB,,1,1
+Switzerland,SUI,,1,1
+Belgium,BEL,,1,
+Bulgaria,BUL,,1,
+Colombia,COL,,1,
+Denmark,DEN,,1,
+India,IND,,1,
+Jordan,JOR,,1,
+Romania,ROU,,1,
+Germany,GER,,,3
+Kazakhstan,KAZ,,,3
+Egypt,EGY,,,2
+Mongolia,MGL,,,2
+Turkey,TUR,,,2
+Ukraine,UKR,,,2
+Côte d'Ivoire,CIV,,,1
+Estonia,EST,,,1
+Israel,ISR,,,1
+Kuwait,KUW,,,1
+Mexico,MEX,,,1
+New Zealand,NZL,,,1
